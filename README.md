@@ -9,6 +9,34 @@ di S1.101
 ## Prasyarat: MFF 1012.
 Silabus: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
 
+## Cronograma
+
+O cronograma provavelmente sofrerá alterações ao longo do semestre.
+
+Cada semana do curso abordará um tema com uma atividade prática associada. As
+práticas são feitas no computador usando
+[Jupyter notebooks](http://jupyter.org/) e a biblioteca de modelagem geofísica
+[Fatiando a Terra](http://www.fatiando.org/).
+
+Na tabela abaixo, use os links "visualizar" para ver uma versão não-executável
+dos notebooks e os links "executar" para rodar os notebooks online (graças ao
+serviço gratuito [Binder](http://mybinder.org/)).
+Você não precisará instalar os programas em seu computador, porém seu trabalho
+não ficará salvo.
+
+| Semana | Tema                                 | Prática |
+|:------:|:-------------------------------------|:-------:|
+| 1     | Tentang Osilasi | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
+| 2     | Gerak Gelombang | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F2-reflexao-refracao.ipynb) |
+| 3     | Dasar Matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
+| 4     | Gelombang Mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+| ---   | Seminários | --- |
+| 5     | Sísmica de reflexão: reflexão e seções Common Mid Point (CMP) | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/5-reflexao-cmp.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F5-reflexao-cmp.ipynb) |
+| 6     | Sísmica de reflexão: correção de Normal Moveout (NMO) e empilhamento | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/6-reflexao-nmo-empilhamento.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F6-reflexao-nmo-empilhamento.ipynb) |
+| 7     | Sísmica de reflexão: aquisição 2D e juntando tudo |   |
+| 8     | Sísmica de reflexão: resolução e armadilhas na interpretação | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/8-reflexao-resolucao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F8-reflexao-resolucao.ipynb)  |
+
+
 ## BukuAcuan:
 1. Hirose, A., dan K.E. Longren, 1985: Introduction to wave phenomena, John Wiley & Sons.
 2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
