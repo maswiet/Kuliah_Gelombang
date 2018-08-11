@@ -36,4 +36,4 @@ Berikut jadwal pertemuan setiap minggunya
 3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
 
 ![Akira_Hirose](https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u= 307 x 400)
-![HJ Pain](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg = 307x400)
+![HJ Pain](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg= 307x400)
