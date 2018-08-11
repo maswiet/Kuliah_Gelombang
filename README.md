@@ -1,6 +1,5 @@
 # Kuliah Gelombang
 Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
-## Jadwal Kuliah
 
 ## Pengampu
 - Dr. Juliasih Partini
@@ -21,14 +20,19 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Praktek |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang Osilasi | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
-| 2     | Gerak Gelombang | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F2-reflexao-refracao.ipynb) |
-| 3     | Dasar Matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
-| 4     | Gelombang Mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
-| ---   | Midterm | --- |
+| 1     | Tentang osilasi | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
+| 2     | Gerak gelombang | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F2-reflexao-refracao.ipynb) |
+| 3     | Dasar matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
+| 4     | Gelombang mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+| 5     | Gelombang suara melalui benda padat, cair dan gas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+| 6     | Refleksi gelombang dan gelombang berdiri | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+| 7     | Gelombang sferis, gelombang multidimensional | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+
 
 
 ## BukuAcuan:
 1. Hirose, A., dan K.E. Longren, 1985: Introduction to wave phenomena, John Wiley & Sons.
 2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
 3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
+
+![Akira_Hirose](http://t2.gstatic.com/images?q=tbn:ANd9GcQVrqh0CaAUdEQDEVa687CH6ZlG_ZW19TvIjKu66XEaF3wFqigD)
