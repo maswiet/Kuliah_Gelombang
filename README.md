@@ -3,8 +3,8 @@ Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
 ## Jadwal Kuliah
 
 ## Pengampu
-Dr. Juliasih Partini
-Wiwit Suryanto
+- Dr. Juliasih Partini
+- Wiwit Suryanto
 
 ## Prasyarat: MFF 1012.
 Silabus: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
@@ -26,10 +26,6 @@ Berikut jadwal pertemuan setiap minggunya
 | 3     | Dasar Matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
 | 4     | Gelombang Mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
 | ---   | Midterm | --- |
-| 5     | Sísmica de reflexão: reflexão e seções Common Mid Point (CMP) | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/5-reflexao-cmp.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F5-reflexao-cmp.ipynb) |
-| 6     | Sísmica de reflexão: correção de Normal Moveout (NMO) e empilhamento | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/6-reflexao-nmo-empilhamento.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F6-reflexao-nmo-empilhamento.ipynb) |
-| 7     | Sísmica de reflexão: aquisição 2D e juntando tudo |   |
-| 8     | Sísmica de reflexão: resolução e armadilhas na interpretação | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/8-reflexao-resolucao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F8-reflexao-resolucao.ipynb)  |
 
 
 ## BukuAcuan:
