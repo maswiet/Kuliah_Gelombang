@@ -14,7 +14,7 @@ Jadwal kuliah dua kali dalam satu minggu, yaitu:
 - Senin, jam 12:30 s.d. 14:10 di S1.101
 - Kamis, jam 11:30 s.d. 12:20 di S1.101
 
-Kuliah fisika jaman now, pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan dilakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa Python. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/).
+Kuliah fisika jaman now, pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/).
 
 Berikut jadwal pertemuan setiap minggunya
 
