@@ -5,7 +5,7 @@ Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
 - Dr. Juliasih Partini (Setelah Mid-Term)
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 
-## Prasyarat: MFF 1012.
+## Prasyarat: MFF 1012 (Fisika Dasar 2).
 **Silabus**: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
 
 ## Jadwal
@@ -14,7 +14,7 @@ Jadwal kuliah dua kali dalam satu minggu, yaitu:
 - Senin, jam 12:30 s.d. 14:10 di S1.101
 - Kamis, jam 11:30 s.d. 12:20 di S1.101
 
-Kuliah fisika jaman now, pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/).
+Kuliah fisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Tentusaja saya tidak akan mengajarkan materi komputasi di dalam kuliah Gelombang ini, namun senyampang materi-materi kuliah disampaikan, selingan akan pemakaian komputer untuk memecahkan masalah gelombang akan terselip dalam materi kuliah. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Fisika dan Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
 Berikut jadwal pertemuan setiap minggunya
 
