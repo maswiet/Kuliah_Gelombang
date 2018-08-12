@@ -37,12 +37,13 @@ Berikut jadwal pertemuan setiap minggunya
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
 | 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
-| 2     | Gerak gelombang | [visualizar](#) |
-| 3     | Dasar matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
-| 4     | Gelombang mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
-| 5     | Gelombang suara melalui medium padat, cair dan gas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
-| 6     | Refleksi gelombang dan gelombang berdiri | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
-| 7     | Gelombang sferis, gelombang multidimensional | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
+| 2     | Gerak gelombang | [T.B.A](#) |
+| 3     | Dasar matematika | [T.B.A](#) |
+| 4     | Gelombang mekanik | [T.B.A](#) |
+| 5     | Gelombang suara melalui medium padat, cair dan gas | [T.B.A](#) |
+| 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
+| 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
+| 8     | Ujian Tengah Semester | [T.B.A](#) |
 
 
 
