@@ -35,8 +35,6 @@ Berikut jadwal pertemuan setiap minggunya
 2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
 3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
 
-<img src="https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u" width=128px height=161px alt='Akira Hirose'>
-
-<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
+<img src="https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u" width=128px height=161px alt='Akira Hirose'><img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
 
 
