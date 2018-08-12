@@ -34,10 +34,10 @@ Kuliah fisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga
 
 Berikut jadwal pertemuan setiap minggunya
 
-| Minggu-ke | Tema                                 | Praktek |
+| Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
-| 2     | Gerak gelombang | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F2-reflexao-refracao.ipynb) |
+| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
+| 2     | Gerak gelombang | [visualizar](#) |
 | 3     | Dasar matematika | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F3-refracao-critica.ipynb) |
 | 4     | Gelombang mekanik | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
 | 5     | Gelombang suara melalui medium padat, cair dan gas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F4-sismica-refracao.ipynb) |
