@@ -55,8 +55,8 @@ Berikut jadwal pertemuan setiap minggunya
 
 
  [1]: http://www.twitter.com/maswiet
- [2]: http://www.facebook.com/sednaoui
- [3]: https://plus.google.com/+CarlSednaoui
- [4]: http://carlsed.tumblr.com
- [5]: http://dribbble.com/carlsednaoui
- [6]: http://www.github.com/carlsednaoui
+ [2]: http://www.facebook.com/mas.wiet.52
+ [3]: https://plus.google.com/#
+ [4]: http://#
+ [5]: http://dribbble.com/#
+ [6]: http://www.github.com/maswiet
