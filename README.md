@@ -15,7 +15,9 @@
 
 # Kuliah Gelombang
 Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
+
 ![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
+
 ## Pengampu
 - Dr. Juliasih Partini (Setelah Mid-Term)
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
