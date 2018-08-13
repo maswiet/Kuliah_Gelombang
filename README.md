@@ -38,7 +38,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/geofisica2/master?filepath=notebooks%2F1-ondas-sismicas.ipynb) |
+| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/maswiet/Kuliah_Gelombang/Minggu_1_Osilasi.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
 | 2     | Gerak gelombang | [T.B.A](#) |
 | 3     | Dasar matematika | [T.B.A](#) |
 | 4     | Gelombang mekanik | [T.B.A](#) |
