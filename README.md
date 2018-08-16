@@ -38,7 +38,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynbKuliah_Minggu#01.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
+| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
 | 2     | Gerak gelombang | [T.B.A](#) |
 | 3     | Dasar matematika | [T.B.A](#) |
 | 4     | Gelombang mekanik | [T.B.A](#) |
