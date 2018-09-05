@@ -41,7 +41,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/maswiet-kuliah_gelombang-2kgkfoto/notebooks/Kuliah_Minggu%2301.ipynb) |
 | 2     | Gerak gelombang | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2302.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
 | 3     | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
-| 4     | Gelombang mekanik | [T.B.A](#) |
+| 4     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
 | 5     | Gelombang suara melalui medium padat, cair dan gas | [T.B.A](#) |
 | 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
 | 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
