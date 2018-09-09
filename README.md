@@ -38,11 +38,11 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1 (13/09 dan - -2018)    | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 2 (20/09 dan Libur Iedul Adha -2018)    | Gerak gelombang | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2302.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
-| 3 (27/08 dan 30/08 -2018)     | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
-| 4 (03/09 dan 06/09 -2018)     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
-| 5 (10/09 dan 13/09 -2018)     | Gelombang suara melalui medium padat, cair dan gas | [T.B.A](#) |
+| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
+| 2     | Gerak gelombang | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2302.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
+| 3    | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
+| 4     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
+| 5     | Gelombang suara melalui medium padat, cair dan gas | [T.B.A](#) |
 | 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
 | 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
