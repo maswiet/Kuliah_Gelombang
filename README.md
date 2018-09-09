@@ -38,7 +38,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/maswiet-kuliah_gelombang-2kgkfoto/notebooks/Kuliah_Minggu%2301.ipynb) |
+| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 | 2     | Gerak gelombang | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2302.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
 | 3     | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
 | 4     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#)|
