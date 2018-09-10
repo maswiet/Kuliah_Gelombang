@@ -55,7 +55,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
 | 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-
+T.B.A = to-be-anounced 
 
 
 ## BukuAcuan:
