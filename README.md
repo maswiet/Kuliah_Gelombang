@@ -32,8 +32,8 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 2. K5 mengetahui berbagai cabang ilmu matematika termasuk penggunaan metode numerik dan pemrograman
 3. K7 trampil mengidentifikasi suatur masalah fisika melalui konsep-konsep fisika
 4. K10 trampil merumuskan aplikasi fisika untuk menyelesaikan masalah dalam kehidupan sehari-hari
-5. K13
-6. K14
+5. K13 trampil dalam menggunakan matematika dalam menjabarkan berbagai gejala fisika
+6. K14 trampil dalam penggunaan teknologi informasi dan komunikasi
 
 ## Jadwal
 
