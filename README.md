@@ -52,7 +52,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 3    | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 | 4     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2305.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master)|
 | 5     | Gelombang suara melalui medium padat, cair dan gas | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
+| 6     | Refleksi gelombang dan gelombang berdiri |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2306.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 | 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
 
