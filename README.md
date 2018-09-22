@@ -14,7 +14,7 @@
 
 
 # Kuliah Gelombang
-Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
+Kuliah Gelombang di Departemen Fisika UGM, 3 SKS simbol latex $\lambda$
 
 ![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
 
