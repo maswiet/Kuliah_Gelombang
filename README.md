@@ -18,10 +18,6 @@ Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
 
 ![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
 
-## Pengampu
-- Dr. Juliasih Partini (Setelah Mid-Term)
-- **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
-Follow me on [![alt text][1.1]][1]
 
 ## Prasyarat: MFF 1012 (Fisika Dasar 2).
 **Silabus**: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
@@ -34,6 +30,11 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 4. K10 trampil merumuskan aplikasi fisika untuk menyelesaikan masalah dalam kehidupan sehari-hari
 5. K13 trampil dalam menggunakan matematika dalam menjabarkan berbagai gejala fisika
 6. K14 trampil dalam penggunaan teknologi informasi dan komunikasi
+
+## Pengampu
+- Dr. Juliasih Partini (Setelah Mid-Term)
+- **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
+Follow me on [![alt text][1.1]][1]
 
 ## Jadwal
 
