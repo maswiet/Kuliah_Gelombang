@@ -56,7 +56,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 6     | Refleksi gelombang dan gelombang berdiri |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2306.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 | 7     | Gelombang sferis, gelombang multidimensional |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2307.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-
+| 9     | Efek Doppler |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Doppler.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
 T.B.A = to-be-anounced 
 
 
